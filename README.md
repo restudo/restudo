@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Game Developer from Sidoarjo, Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-<p align="left"> ![](https://komarev.com/ghpvc/?username=restudo&label=PROFILE+VIEWS) </p>
+![](https://komarev.com/ghpvc/?username=restudo&label=PROFILE+VIEWS)
 
 - 🔭 I’m currently studying on **Politeknik Elektronika Negeri Surabaya**
 
