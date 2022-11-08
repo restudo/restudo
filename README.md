@@ -6,13 +6,15 @@
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
 
-- 🔭 I’m currently studying on **Politeknik Elektronika Negeri Surabaya**
-
-- 🌱 I’m currently learning **Game Programming**
-
-- 💬 Ask me about **Unity Programming, C#, and C++**
-
-- 📫 How to reach me **restudooctavriandi@gmail.com**
+```
+I-am-restudo@github
+-------------------------
+🔭 I’m currently studying on **Politeknik Elektronika Negeri Surabaya**
+🌱 I’m currently learning **Game Programming**
+💬 Ask me about **Unity Programming, C#, and C++**
+📫 How to reach me **restudooctavriandi@gmail.com**
+```
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
