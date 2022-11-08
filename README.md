@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Restu Dwi Octavriandi</h1>
 <h3 align="center">A passionate Game Developer from Sidoarjo, Indonesia</h3>
-<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
+<img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/"> </a> 
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=restudo&label=PROFILE+VIEWS)
 
@@ -25,5 +26,5 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=restudo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/restudo)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=restudo&theme=tokyonight&hide_border=true&locale=en)](https://github.com/restudo)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=restudo&layout=compact&theme=tokyonight)](https://github.com/restudo/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=restudo&layout=compact&theme=tokyonight&hide_border=true&locale=en)](https://github.com/restudo/github-readme-stats)
 </div>
