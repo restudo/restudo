@@ -18,6 +18,7 @@ I-am-restudo@github
 ```
 <hr>
 
+<br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="(mailto:restudooctavriandi@gmail.com)" target="blank"><img align="center" src="(https://github.com/timche/gmail-desktop/blob/main/media/icon.svg)" alt="restudo" height="30" width="40" /></a> -->
