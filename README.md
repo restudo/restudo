@@ -20,9 +20,9 @@ I-am-restudo@github
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/restudo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="restudo_" height="30" width="40" /></a>
+<a href="https://instagram.com/restudo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="restudo_" height="30" width="40" />
   
-<a href="https://gmail.com/restudooctavriandi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zibrilyt7_" height="30" width="40" /></a>
+<a href="restudooctavriandi@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zibrilyt7_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
