@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Restu Dwi Octavriandi</h1>
 <h3 align="center">A passionate Game Developer from Sidoarjo, Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img alt="dsmark" align="right"  height="50%" width="50%" src="https://c.tenor.com/NzrqQHFBVz8AAAAj/kitty-transparent.gif">
 
 ![](https://komarev.com/ghpvc/?username=restudo&label=PROFILE+VIEWS)
 
