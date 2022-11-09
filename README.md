@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Restu Dwi Octavriandi</h1>
 <h3 align="center">Had a dream to become an advanced Game Developer</h3>
-<img src="https://gpvc.arturio.dev/restudo" alt="Profile views" align='right'/> <a href="https://github.com/restudo/"> </a> 
 
  <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Restudo+%F0%9F%91%8B;Game+Technology+Student;Junior+Game+Programmer;" alt="Headline" />
     </div>
     <br/>
+    
+<img src="https://gpvc.arturio.dev/restudo" alt="Profile views" align='right'/> <a href="https://github.com/restudo/"> </a> 
 
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 <hr>
