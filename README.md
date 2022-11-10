@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Restu Dwi Octavriandi</h1>
-<h3 align="center">Had a dream to become an advanced Game Developer</h3>
-
  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Restudo+%F0%9F%91%8B;Game+Technology+Student;Junior+Game+Programmer;" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Restudo+%F0%9F%91%8B;Had a dream to become an advanced Game Developer;" alt="Headline" />
     </div>
     
 <img src="https://gpvc.arturio.dev/restudo" alt="Profile views" align='right'/> <a href="https://github.com/restudo/"> </a> 
