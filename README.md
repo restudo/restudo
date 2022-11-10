@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Restu Dwi Octavriandi</h1>
 
 <div align=center>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=28FF4A&background=FFFFFF00&width=435&lines=Had+a+dream+to+become;an+advanced+Game+Developer)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=28FF4A&background=FFFFFF00&width=435&lines=Had+a+dream+to+become;an+advanced+Game+Developer" alt="Typing SVG" /></a>
 </div>
     
 <img src="https://gpvc.arturio.dev/restudo" alt="Profile views" align='right'/> <a href="https://github.com/restudo/"> </a> 
