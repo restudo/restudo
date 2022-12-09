@@ -24,7 +24,7 @@ I-am-restudo@github
 
 &emsp;- 👨‍💻 Part of [Relax With Us Team](https://relaxwithus-dev.itch.io/)
 
-&emso;- 👭 Kindly Ask Question about anything restudooctavriandi@gmail.com
+&emsp;- 👭 Kindly Ask Question about anything restudooctavriandi@gmail.com
 
 <hr>
 
