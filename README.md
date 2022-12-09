@@ -14,11 +14,15 @@
 
 I-am-restudo@github
 -------------------------
-🔭 I’m currently studying on Politeknik Elektronika Negeri Surabaya
-🌱 I’m currently learning Game Programming using C#
-💬 Main Languages C#, and C++
-🚩 Interested in Game Development
-🎵 Love metal, lofi, jazz and soft music
+- 🔭 I’m currently studying on **Politeknik Elektronika Negeri Surabaya**
+
+- 🌱 I’m currently learning **Game Programming** using **C#**
+
+- 💬 Main Languages C#, and C++
+
+- 🚩 Interested in Game Development
+
+- 🎵 Love metal, lofi, jazz and soft music
 
 <hr>
 
