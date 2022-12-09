@@ -42,7 +42,7 @@ I-am-restudo@github
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <div align="center">
-  <a href="https://github.com/ea-zibrily">
+  <a href="https://github.com/restudo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=restudo&show_icons=true&theme=tokyonight&hide_border=true&locale=en"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restudo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
 </div>
