@@ -11,7 +11,7 @@
 <hr>
 
 
-```
+
 I-am-restudo@github
 -------------------------
 🔭 I’m currently studying on Politeknik Elektronika Negeri Surabaya
@@ -19,7 +19,7 @@ I-am-restudo@github
 💬 Main Languages C#, and C++
 🚩 Interested in Game Development
 🎵 Love metal, lofi, jazz and soft music
-```
+
 <hr>
 
 <br/>
@@ -34,10 +34,6 @@ I-am-restudo@github
 
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-<!-- [![](https://github-readme-stats.vercel.app/api?username=restudo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/restudo)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=restudo&layout=compact&theme=tokyonight&hide_border=true&locale=en)](https://github.com/restudo/github-readme-stats)
-</div> -->
 
 <div align="center">
   <a href="https://github.com/ea-zibrily">
