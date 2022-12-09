@@ -35,8 +35,14 @@ I-am-restudo@github
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=restudo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/restudo)
+<!-- [![](https://github-readme-stats.vercel.app/api?username=restudo&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/restudo)
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=restudo&layout=compact&theme=tokyonight&hide_border=true&locale=en)](https://github.com/restudo/github-readme-stats)
+</div> -->
+
+<div align="center">
+  <a href="https://github.com/ea-zibrily">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=restudo&show_icons=true&theme=tokyonight&hide_border=true&locale=en"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=restudo&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&locale=en"/>
 </div>
 
 <hr>
