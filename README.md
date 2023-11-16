@@ -29,7 +29,6 @@ I-am-restudo@github
 <p align="left">
 <!-- <a href="(mailto:restudooctavriandi@gmail.com)" target="blank"><img align="center" src="(https://github.com/timche/gmail-desktop/blob/main/media/icon.svg)" alt="restudo" height="30" width="40" /></a> -->
 <a href="https://instagram.com/restudo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="restudo_" height="30" width="40" /></a>
-</p>
 <a href="https://rokutadev.itch.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rokutadev" height="30" width="40" /></a>
 </p>
 
