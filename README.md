@@ -3,9 +3,6 @@
 <div align=center>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=28FF4A&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Hey+What's+Up+👋;" alt="Typing SVG" /></a>
 </div>
-    
-<img src="https://gpvc.arturio.dev/restudo" alt="Profile views" align='right'/> <a href="https://github.com/restudo/"> </a> 
-    <br/>
 
 <hr>
 <img align="left" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
@@ -32,6 +29,8 @@ I-am-restudo@github
 <p align="left">
 <!-- <a href="(mailto:restudooctavriandi@gmail.com)" target="blank"><img align="center" src="(https://github.com/timche/gmail-desktop/blob/main/media/icon.svg)" alt="restudo" height="30" width="40" /></a> -->
 <a href="https://instagram.com/restudo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="restudo_" height="30" width="40" /></a>
+</p>
+<a href="https://rokutadev.itch.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rokutadev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
