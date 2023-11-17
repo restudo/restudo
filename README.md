@@ -30,6 +30,9 @@ I-am-restudo@github
 <!-- <a href="(mailto:restudooctavriandi@gmail.com)" target="blank"><img align="center" src="(https://github.com/timche/gmail-desktop/blob/main/media/icon.svg)" alt="restudo" height="30" width="40" /></a> -->
 <a href="https://instagram.com/restudo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="restudo_" height="30" width="40" /></a>
 <a href="https://rokutadev.itch.io/" target="blank"><img align="center" src="https://github.com/restudo/restudo/blob/main/itch-io.svg" alt="rokutadev" height="30" width="40" /></a>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0a027361-7aca-4b52-8382-7fdd832027c8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
