@@ -24,12 +24,17 @@ I-am-restudo@github
 &emsp;- 👭 Kindly Ask Question about anything. [Mail me](mailto:restudooctavriandi@gmail.com)
 
 <hr>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="(mailto:restudooctavriandi@gmail.com)" target="blank"><img align="center" src="(https://github.com/timche/gmail-desktop/blob/main/media/icon.svg)" alt="restudo" height="30" width="40" /></a> -->
 <a href="https://instagram.com/restudo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="restudo_" height="30" width="40" /></a>
 <a href="https://rokutadev.itch.io/" target="blank"><img align="center" src="https://github.com/restudo/restudo/blob/main/itch-io.svg" alt="rokutadev" height="30" width="40" /></a>
-<a href="https://www.credly.com/badges/0a027361-7aca-4b52-8382-7fdd832027c8/public_url"><img align="center" src="https://github.com/restudo/restudo/blob/main/unity-certified-associate-programmer.png" alt="Unity Associate Programmer Badge" height="30" width="40"/></a>
+</p>
+
+<h3 align="left">Achievement:</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/0a027361-7aca-4b52-8382-7fdd832027c8/public_url"><img align="center" src="https://github.com/restudo/restudo/blob/main/unity-certified-associate-programmer.png" alt="Unity Associate Programmer Badge" height="100" width="100"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
