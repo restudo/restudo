@@ -27,7 +27,7 @@ I-am-restudo@github
 
 <h3 align="left">Achievement:</h3>
 <p align="left">
-<a href="https://www.credly.com/badges/0a027361-7aca-4b52-8382-7fdd832027c8/public_url"><img align="center" src="https://github.com/restudo/restudo/blob/main/unity-certified-associate-programmer.png" alt="Unity Associate Programmer Badge" height="100" width="100"/></a>
+<a href="https://www.credly.com/badges/0a027361-7aca-4b52-8382-7fdd832027c8/public_url"><img align="center" src="https://github.com/restudo/restudo/blob/main/unity-certified-associate-programmer.png" alt="Unity Associate Programmer Badge" height="80" width="80"/></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
